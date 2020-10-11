@@ -135,7 +135,7 @@ main();
 如此便捕捉到了出错代码在源文件的位置。
 
 # 结语
-文本记录了如何利用sourceMap定位线上代码的错误，完整demo均在此GitHub地址：
+文本记录了如何利用sourceMap定位线上代码的错误，完整demo均在此GitHub地址：[Joeoeoe/source-map-demo](https://github.com/Joeoeoe/source-map-demo)
 # 参考资料
 [JavaScript Source Map 详解——阮一峰](https://www.ruanyifeng.com/blog/2013/01/javascript_source_map.html)  
 [Introduction to JavaScript Source Maps](https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)  
